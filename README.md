@@ -1,17 +1,9 @@
 <p align="center"> [中文] | [<a href="README_en.md">English</a>]</p>
 
 # 📑簡介
-貓抓(cat-catch) 資源嗅探擴充功能，能夠幫你篩選列出當前頁面的資源。
+猩猩抓(gorilla-catch) 資源嗅探擴充功能，能夠幫你篩選列出當前頁面的資源。
 
-# 📖安裝地址
-## 🐴Chrome
-https://chrome.google.com/webstore/detail/jfedfbgedapdagkghmgibemcoggfppbb
-## 🦄Edge
-https://microsoftedge.microsoft.com/addons/detail/oohmdefbjalncfplafanlagojlakmjci
-## 🦊Firefox
-https://addons.mozilla.org/addon/cat-catch/ 😂需非中國區IP訪問
-
-💔貓抓是開源的，任何人都可以下載修改上架到應用商店，已經有不少加上廣告代碼後上架的偽貓抓，請注意自己的資料安全。所有安裝地址以github和使用者文件為準。
+💔猩猩抓是開源的，任何人都可以下載修改上架到應用商店，已經有不少加上廣告代碼後上架的偽貓抓，請注意自己的資料安全。所有安裝地址以github和使用者文件為準。
 
 # 📒使用者文件
 https://o2bmm.gitbook.io/cat-catch/
@@ -20,7 +12,7 @@ https://o2bmm.gitbook.io/cat-catch/
 [![gitlocalized ](https://gitlocalize.com/repo/9392/whole_project/badge.svg)](https://gitlocalize.com/repo/9392?utm_source=badge)
 
 # 📘Chrome/Edge等Chromium核心瀏覽器 原始碼載入方法
-1. https://github.com/xifangczy/cat-catch/releases 下載 Source code 並解壓。
+1. https://github.com/SAOJSM/gorilla-catch/releases 下載 Source code 並解壓。
 2. 擴充功能管理頁面 打開 "開發者模式"。
 3. 點擊 "載入已解壓的擴充功能" 選中你解壓好的目錄即可。
 
@@ -48,6 +40,7 @@ https://o2bmm.gitbook.io/cat-catch/
 - [Momo707577045](https://github.com/Momo707577045)
 - [mpd-parser](https://github.com/videojs/mpd-parser)
 - [StreamSaver.js](https://github.com/jimmywarting/StreamSaver.js)
+- [Cat-catcher](https://github.com/xifangczy/cat-catch)
 
 # 📜授權條款
 GPL-3.0 授權
