@@ -5,9 +5,6 @@
 
 💔猩猩抓是開源的，任何人都可以下載修改上架到應用商店，已經有不少加上廣告代碼後上架的偽貓抓，請注意自己的資料安全。所有安裝地址以github和使用者文件為準。
 
-# 📒使用者文件
-https://o2bmm.gitbook.io/cat-catch/
-
 # 🌏翻譯
 [![gitlocalized ](https://gitlocalize.com/repo/9392/whole_project/badge.svg)](https://gitlocalize.com/repo/9392?utm_source=badge)
 
